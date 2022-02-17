@@ -1,3 +1,6 @@
-{
-	"Hello everyone"
+{ 
+	"name": "Marina",
+	"age": 25,
+	"pets": 2,
+	"salary": 1000
 }
